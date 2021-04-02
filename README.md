@@ -2,7 +2,7 @@
 
 <table align="right">
  <tr><td><a href="README.md"><img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-png/br.png" height="13"> Português</a></td></tr>
- <tr><td><a href=""><img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-png/us.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README-en.md"><img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-png/us.png" height="13"> English</a></td></tr>
 </table>
 
 **Desenvolvedor front-end**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
