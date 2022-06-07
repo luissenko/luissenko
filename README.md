@@ -5,7 +5,7 @@
  <tr><td><a href="README-en.md"><img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-png/us.png" height="13"> English</a></td></tr>
 </table>
 
-**Desenvolvedor front-end**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+**Estudante de programação**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ### :space_invader: &nbsp;Sobre mim
 
@@ -17,7 +17,7 @@ const luis = {
   os: ["Windows", "GNU/Linux"]
   idiomas: ["Português", "Inglês"],
   outrosConhecimentos: {
-                        Negocios: ["Administração", "Marketing Digital", "SEO", "Business Intelligence"],
+                        Negocios: ["Administração", "Marketing Digital", "SEO"],
                         Design: ["UX", "UI"],
                       },
   jogos: ["Bomberman", "Zelda 64", "Age of Empires"],
