@@ -14,7 +14,7 @@ const luis = {
   linguagens: ["Javascript", "HTML", "CSS"],
   frameworks: ["jQuery", "Bootstrap"],
   ferramentas: "Sass",
-  os: ["Windows", "GNU/Linux"]
+  os: ["Windows", "GNU/Linux"],
   idiomas: ["Português", "Inglês"],
   outrosConhecimentos: {
                         Negocios: ["Administração", "Marketing Digital", "SEO"],
